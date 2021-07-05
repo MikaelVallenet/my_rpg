@@ -1,10 +1,12 @@
 # My_RPG
 
-## Description :sunrise_over_mountains:
-
 This project is one of the freest project of your first year. Create your own RPG.\
 Your main challenge for this game will be to create a complete product using everything that you and your\
 team know.
+
+We had the best grade of the promotion, a guarantee of quality :trophy:
+
+## Description :sunrise_over_mountains:
 
 Your game must follow the following rules:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The player needs to have characteristics which you can find in the status menu.\
@@ -14,8 +16,6 @@ Your game must follow the following rules:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The player must have an inventory which can contain a limited set of items.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The player can earn experience by winning fights and accomplishing specific actions.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• With enough experience, the player can level up, upgrading its statistics.\
-
-We had the best grade of the promotion, a guarantee of quality :trophy:
 
 To realize our project, we were only allowed to use some functions,\
 most of them being forbidden such as: printf
