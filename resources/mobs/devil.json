@@ -1,0 +1,9 @@
+{
+    "name":"devil",
+    "sprite":"./assets/devil.png",
+    "health":140,
+    "damage":35,
+    "armor":25,
+    "level":2,
+    "xp":2400
+}

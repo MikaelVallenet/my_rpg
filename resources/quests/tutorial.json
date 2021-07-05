@@ -1,0 +1,31 @@
+{
+    "name":"Tutoriel",
+    "description":"Le début d'une grande aventure...",
+    "value":"main_quest",
+    "awards": [
+        {
+            "id":3,
+            "nb":1
+        }
+    ],
+    "awards_desc":"Une batte de combattant, digne des plus grandes...",
+    "step": [
+        {
+            "id":0,
+            "description":"Maman a soif, donnez lui de l'eau",
+            "npc": [
+                {
+                    "name":"Caroline",
+                    "conversation":"./resources/conversation/event_conversation.json"
+                }
+            ],
+            "event": [],
+            "objective": [
+                {
+                    "name":"kill_wolf",
+                    "nb":1
+                }
+            ]
+        }
+    ]
+}

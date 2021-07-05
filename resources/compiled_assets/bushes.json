@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/assets\/bushes.png",
+ "imageheight":256,
+ "imagewidth":128,
+ "margin":0,
+ "name":"bushes",
+ "spacing":0,
+ "tilecount":128,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

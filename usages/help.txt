@@ -1,0 +1,73 @@
+RPG created in CSFML by David Gozlan, Maxime Premont, Nolann Sabre and Mikael Vallenet.
+
+USAGE
+    ./my_rpg [OPTIONS]
+
+DESCRIPTION
+    my_rpg
+
+OPTIONS
+    -h print the usage and quit.
+
+SETTINGS
+    SOUND
+        In setting menu you can increase or decrease music and sound effect volume
+        With on/off button you can set the volume to 0 (on setting and main menu)
+    DISPLAY
+        You can set your window on fullscreen or window mode
+        You can select your framerate (30, 60 or 90)
+
+USER INTERACTIONS IN GAME
+    ARROWS      Player movements
+    "F"         Open / Quit inventory
+    "Q"         Open / Quit quest menu
+    "S"         Open / Quit skilltree
+    "ESCAPE"    Open / Quit pause menu
+
+LOAD OR CREATE OR DELETE SAVE
+    You can load your own save on the slots you've picked
+    If the slot is "EMPTY" you can choose it and choose your character,
+    statistics will not change between the different characters
+    With garbage button you can delete your save  ! WARNING ! It's instant
+    For saving your game you can click on save button in the pause menu
+
+NPC
+    You can speak with the different npc on the map
+    Some will give you quests, items, or more
+    If the npc move, you can approach him and he will stop
+
+QUESTS
+    You have two types of quest : Main or Second
+    Some quests contains several steps
+    QUEST MENU
+        On the quest menu, you can see the title of the quest, type, description of the quest,
+        description of the step and your progress in the current step
+
+FIGHT
+    The fight contains two parts : Attack and Defense
+    ATTACK
+        For the attack you need to press space-bar when the white bar is closest to the centre
+        Your damage are proportional to the distance that separates you from the center and your attack statistic
+    DEFENSE
+        For the defense you are blue ball and you need to avoid red balls
+        If you touch red balls you have one second during which you are invincible
+    the fight ends when someone dies, your life and the life of the opponent is displayed next to your heads
+
+INVENTORY
+    In the inventory you can stock your items.
+    For use potion you can double-click on it
+    For use items like armor or weapon equip them in the slots next to your character
+    See details about items in "ITEMS" part
+
+ITEMS
+    Have different type of items :
+    Potions that will increase your stats (Health, Xp)
+    Armors that will increase your armor stat
+    Weapons that will increase your damage stat
+
+SKILLTREE
+    You have four branches on the skill tree: Armor, Damage, Speed
+    You can buy a box with stars that you earn when you gain a level (1 per level)
+    Each branch raises your stats in skill
+    For example, if you buy the first box of speed your speed will increase
+    You can hover over the buttons to see the details of the improvement

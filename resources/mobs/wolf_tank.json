@@ -1,0 +1,9 @@
+{
+    "name":"wolf",
+    "sprite":"./assets/wolf-tank.png",
+    "health":80,
+    "damage":7,
+    "armor":15,
+    "level":2,
+    "xp":90
+}

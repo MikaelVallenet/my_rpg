@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/girl/Evelyn.png",
+    "name":"Evelyn",
+    "top_rect":277,
+    "left_rect":22,
+    "pos_x":100,
+    "pos_y":300
+}

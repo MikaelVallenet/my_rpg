@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/assets\/fall_town.png",
+ "imageheight":992,
+ "imagewidth":512,
+ "margin":0,
+ "name":"fall_town",
+ "spacing":0,
+ "tilecount":1984,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

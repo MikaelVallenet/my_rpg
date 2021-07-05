@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/man/Willy.png",
+    "name":"WIlly",
+    "top_rect":175,
+    "left_rect":22,
+    "pos_x":200,
+    "pos_y":1100
+}

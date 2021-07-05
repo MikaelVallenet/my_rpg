@@ -1,0 +1,17 @@
+{
+    "image":"./assets/npc/man/Lewis.png",
+    "name":"Lewis",
+    "top_rect":209,
+    "left_rect":22,
+    "pos_x":1220,
+    "pos_y":20,
+    "event_type":"conversation",
+    "event_zone":{
+        "height":100,
+        "width":100
+    },
+    "file_conversation":"resources/conversation/mayor_conversation.json",
+    "state":"static",
+    "orientation":"down",
+    "speed":2
+}

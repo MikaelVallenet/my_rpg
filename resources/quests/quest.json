@@ -1,0 +1,96 @@
+{
+    "name":"Une mission impossible.",
+    "description":"Decouvrez et terassez le secret des grottes.",
+    "value":"main_quest",
+    "awards": [
+        {
+            "id":18,
+            "nb":1
+        }
+    ],
+    "awards_desc":"Un artefact legendaire.",
+    "step": [
+        {
+            "id":0,
+            "description":"Un secret inexplore",
+            "npc": [
+                {
+                    "name":"Clint",
+                    "conversation":"./resources/conversation/event_conversation.json"
+                }
+            ],
+            "event": [
+
+            ],
+            "objective": [
+                {
+                    "name":"Trouvez et entrez dans la mine.",
+                    "nb":1
+                }
+            ]
+        },
+        {
+            "id":1,
+            "description":"L'entrainement.",
+            "npc": [
+                {
+                    "name":"Clint",
+                    "conversation":"./resources/conversation/event_conversation.json"
+                }
+            ],
+            "event": [
+                    {
+                        "name":"Enter_DeepCave",
+                        "activate":false
+                    }
+            ],
+            "objective": [
+                {
+                    "name":"Tuer 5 loups",
+                    "nb":5
+                }
+            ]
+        },
+        {
+            "id":2,
+            "description":"L'armement.",
+            "npc": [
+                {
+                    "name":"Clint",
+                    "conversation":"./resources/conversation/event_conversation.json"
+                }
+            ],
+            "event": [
+                {
+                    "name":"EnterLavaCave",
+                    "activate":false
+                }
+            ],
+            "objective": [
+                {
+                    "name":"Tuer 5 esprits",
+                    "nb":5
+                }
+            ]
+        },
+        {
+            "id":3,
+            "description":"L'achevement.",
+            "npc": [
+                {
+                    "name":"Clint",
+                    "conversation":"./resources/conversation/event_conversation.json"
+                }
+            ],
+            "event": [
+
+            ],
+            "objective": [
+                {
+                    "name":"Retrouvez et battez le demon des profondeurs.",
+                    "nb":1
+                }
+            ]
+        }
+    ]
+}

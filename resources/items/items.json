@@ -1,0 +1,202 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "name":"Potion de vie",
+            "stackable" : true,
+            "id_function" : 0,
+            "sprite" : "./assets/items/heal_potion.png",
+            "description": "Une potion de vie qui regenere 50 points de vie.",
+            "damage" : 0,
+            "armor" : 0,
+            "rarete": 0
+        },
+        {
+            "id" : 2,
+            "name":"Potion d'experience",
+            "stackable" : true,
+            "id_function" : 1,
+            "sprite" : "./assets/items/experience_potion.png",
+            "description": "Une potion d'experience qui vous rajoute 75 experience.",
+            "damage" : 0,
+            "armor" : 0,
+            "rarete": 0
+        },
+        {
+            "id" : 3,
+            "name":"Batte",
+            "stackable" : false,
+            "id_function" : 6,
+            "sprite" : "./assets/items/bat.png",
+            "description": "Une arme par défault ...",
+            "damage" : 7,
+            "armor" : 0,
+            "rarete": 1
+        },
+        {
+            "id" : 4,
+            "name":"Epee tranchante",
+            "stackable" : false,
+            "id_function" : 6,
+            "sprite" : "./assets/items/sword.png",
+            "description": "Une lame de valeur qui semble assez tranchante pour tuer quelqu'un. vous devriez faire attention lorsque vous l'utilisez.",
+            "damage" : 15,
+            "armor" : 0,
+            "rarete": 1
+        },
+        {
+            "id" : 5,
+            "name":"Epee legendaire",
+            "stackable" : false,
+            "id_function" : 6,
+            "sprite" : "./assets/items/legendary_sword.png",
+            "description": "Une lame des plus prestigieuses, elle a le pouvoir de trancher des montagnes.",
+            "damage" : 25,
+            "armor" : 0,
+            "rarete": 1
+        },
+        {
+            "id" : 6,
+            "name":"Bottes en cuirs",
+            "stackable" : false,
+            "id_function" : 2,
+            "sprite" : "./assets/items/leather_boots.png",
+            "description": "Des bottes pas très confortables, mais c'est mieux que rien ...",
+            "damage" : 0,
+            "armor" : 2,
+            "rarete": 1
+        },
+        {
+            "id" : 7,
+            "name":"Pantalon en cuir",
+            "stackable" : false,
+            "id_function" : 3,
+            "sprite" : "./assets/items/leather_leggings.png",
+            "description": "Un pantalon, basique, pas vraiment digne d'une armure.",
+            "damage" : 0,
+            "armor" : 8,
+            "rarete": 1
+        },
+        {
+            "id" : 8,
+            "name":"Veste en cuir",
+            "stackable" : false,
+            "id_function" : 4,
+            "sprite" : "./assets/items/leather_chestplate.png",
+            "description": "c'est giga cringe, next.",
+            "damage" : 0,
+            "armor" : 12,
+            "rarete": 1
+        },
+        {
+            "id" : 9,
+            "name":"Casque en cuir",
+            "stackable" : false,
+            "id_function" : 5,
+            "sprite" : "./assets/items/leather_helmet.png",
+            "description": "Pas ouf, mais mieux qu'une casquette WATI-B",
+            "damage" : 0,
+            "armor" : 5,
+            "rarete": 1
+        },
+        {
+            "id" : 10,
+            "name":"Bottes de fers",
+            "stackable" : false,
+            "id_function" : 2,
+            "sprite" : "./assets/items/iron_boots.png",
+            "description": "Elle détruisent les pieds plus qu'elles les protegent.",
+            "damage" : 0,
+            "armor" : 9,
+            "rarete": 2
+        },
+        {
+            "id" : 11,
+            "name":"Pantalon en fer",
+            "stackable" : false,
+            "id_function" : 3,
+            "sprite" : "./assets/items/iron_leggings.png",
+            "description": "Aussi lourd que solide.",
+            "damage" : 0,
+            "armor" : 15,
+            "rarete": 2
+        },
+        {
+            "id" : 12,
+            "name":"Plastron en fer",
+            "stackable" : false,
+            "id_function" : 4,
+            "sprite" : "./assets/items/iron_chestplate.png",
+            "description": "Permet de bloquer beaucoup d'attaques.",
+            "damage" : 0,
+            "armor" : 20,
+            "rarete": 2
+        },
+        {
+            "id" : 13,
+            "name":"Casque en fer.",
+            "stackable" : false,
+            "id_function" : 5,
+            "sprite" : "./assets/items/iron_helmet.png",
+            "description": "Casque de chevalier basique.",
+            "damage" : 0,
+            "armor" : 12,
+            "rarete": 2
+        },
+        {
+            "id" : 14,
+            "name":"Bottes legendaires",
+            "stackable" : false,
+            "id_function" : 2,
+            "sprite" : "./assets/items/gold_boots.png",
+            "description": "Les bottes divines, permettent de courrir Tah Lewandoski.",
+            "damage" : 0,
+            "armor" : 15,
+            "rarete": 3
+        },
+        {
+            "id" : 15,
+            "name":"Pantalon legendaire",
+            "stackable" : false,
+            "id_function" : 3,
+            "sprite" : "./assets/items/gold_leggings.png",
+            "description": "Pantalon charismatique, il attire la gente opposé.",
+            "damage" : 0,
+            "armor" : 25,
+            "rarete": 3
+        },
+        {
+            "id":16,
+            "name":"Plastron legendaire",
+            "stackable" : false,
+            "id_function" : 4,
+            "sprite" : "./assets/items/gold_chestplate.png",
+            "description": "Plastron pour les Z'hommes.",
+            "damage" : 0,
+            "armor" : 35,
+            "rarete": 3
+        },
+        {
+            "id":17,
+            "name":"Casque legendaire",
+            "stackable" : false,
+            "id_function":5,
+            "sprite":"./assets/items/gold_helmet.png",
+            "description":"Insensible aux balles, S/O la NRA !",
+            "damage" : 0,
+            "armor" : 20,
+            "rarete": 3
+        },
+        {
+            "id":18,
+            "name":"Artefact legendaire",
+            "stackable" : false,
+            "id_function":5,
+            "sprite":"./assets/items/artefact.png",
+            "description":"L'artefact des dieux, elle vous rendra surpuissant.",
+            "damage" : 0,
+            "armor" : 50,
+            "rarete": 3
+        }
+    ]
+}

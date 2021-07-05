@@ -1,0 +1,9 @@
+{
+    "name":"wolf",
+    "sprite":"./assets/wolf.png",
+    "health":50,
+    "damage":12,
+    "armor":9,
+    "level":2,
+    "xp":50
+}

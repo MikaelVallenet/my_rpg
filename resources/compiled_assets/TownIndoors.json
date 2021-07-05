@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/assets\/TownIndoors.png",
+ "imageheight":2176,
+ "imagewidth":512,
+ "margin":0,
+ "name":"TownIndoors",
+ "spacing":0,
+ "tilecount":4352,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

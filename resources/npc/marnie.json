@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/man/Marnie.png",
+    "name":"Marnie",
+    "top_rect":212,
+    "left_rect":21,
+    "pos_x":100,
+    "pos_y":600
+}

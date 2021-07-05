@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/man/Wizard.png",
+    "name":"Wizard",
+    "top_rect":238,
+    "left_rect":21,
+    "pos_x":200,
+    "pos_y":1300
+}

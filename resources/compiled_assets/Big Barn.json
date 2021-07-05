@@ -1,0 +1,14 @@
+{ "columns":7,
+ "image":"..\/assets\/Big Barn.png",
+ "imageheight":128,
+ "imagewidth":112,
+ "margin":0,
+ "name":"Big Barn",
+ "spacing":0,
+ "tilecount":56,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

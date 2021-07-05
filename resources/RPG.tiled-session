@@ -1,0 +1,299 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "console.history": [
+        "ls"
+    ],
+    "expandedProjectPaths": [
+        "maps",
+        "compiled_assets",
+        "assets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 3
+        },
+        "Abigail.tsx": {
+            "scaleInDock": 2
+        },
+        "Festivals.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Test Rabbit.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        },
+        "Test.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1407,
+                "y": 1259
+            }
+        },
+        "Test.tmx": {
+            "scale": 0.19564062499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1602.4279210925645,
+                "y": 1602.4279210925647
+            }
+        },
+        "Test2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1554.3333333333333,
+                "y": 821
+            }
+        },
+        "cavedarker.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Big Barn.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Big Coop.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Brown Chicken.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Dana.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Earth Obelisk.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Festivals.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Floors.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Floors.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 5.5
+        },
+        "compiled_assets/TownIndoors.json": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/Well.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/bushes.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/fall_outdoorsTileSheet.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/fall_town.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/farmhouse_tiles.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/furniture.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/grass.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/hoeDirt.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/townInterior.json": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/tree1_fall.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/tree2_fall.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/tree3_fall.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "compiled_assets/walls_and_floors.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "maps/Maire.json": {
+            "scale": 0.8184615384615385,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 488.11090225563913,
+                "y": 520.4887218045113
+            }
+        },
+        "maps/Mairie": {
+            "scale": 0.7823529411764705,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 488.9097744360903,
+                "y": 544.5112781954888
+            }
+        },
+        "maps/Mairie.json": {
+            "scale": 5.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 174.09090909090912,
+                "y": 187.63636363636363
+            }
+        },
+        "maps/Mairie.json#furniture": {
+            "scaleInDock": 1
+        },
+        "maps/Mairie.json#townInterior": {
+            "scaleInDock": 1
+        },
+        "maps/first_map.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 799.6666666666666,
+                "y": 799.6666666666666
+            }
+        },
+        "maps/first_map.json#Floors": {
+            "scaleInDock": 3
+        },
+        "maps/first_map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 799.6666666666666,
+                "y": 799.6666666666667
+            }
+        },
+        "maps/first_map.tmx#Floors": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "maps/first_village.json": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1078.8333333333333,
+                "y": 771
+            }
+        },
+        "maps/house.json": {
+            "scale": 3.26265625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 159.83908816627556,
+                "y": 80.60916622767108
+            }
+        },
+        "maps/house.json#farmhouse_tiles": {
+            "scaleInDock": 1.5
+        },
+        "maps/house_2.json": {
+            "scale": 3,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 111.83333333333334,
+                "y": 80
+            }
+        },
+        "maps/house_3.json": {
+            "scale": 3.26265625,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 159.83908816627553,
+                "y": 80.30266749676741
+            }
+        },
+        "maps/house_3.json#farmhouse_tiles": {
+            "scaleInDock": 1
+        },
+        "maps/house_4.json": {
+            "scale": 4.6609375,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 111.88736171639289,
+                "y": 80.02681863895407
+            }
+        },
+        "maps/infirmary.json": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 95.125,
+                "y": 85
+            }
+        },
+        "maps/untitled.json": {
+            "scale": 1.0357638888888887,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 488.045591686222,
+                "y": 240.40227958431117
+            }
+        }
+    },
+    "last.externalTilesetPath": "/home/david/Bureau/RPG/compiled_assets",
+    "last.imagePath": "/home/nolannsabre/epitech/2nd semester/c_graphical_programming(II)/B-MUL-200-LYN-2-1-myrpg-david.gozlan/resources/assets",
+    "last.worldFilePath": "/home/david/Bureau/RPG/maps",
+    "loadedWorlds": [
+        "/home/david/Bureau/RPG/maps/salut.world"
+    ],
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 14,
+    "openFiles": [
+    ],
+    "project": "RPG.tiled-project",
+    "recentFiles": [
+        "maps/house_3.json",
+        "maps/house_4.json",
+        "maps/house_2.json",
+        "maps/first_village.json",
+        "maps/house.json",
+        "maps/infirmary.json",
+        "maps/Mairie.json",
+        "compiled_assets/farmhouse_tiles.json",
+        "compiled_assets/TownIndoors.json",
+        "compiled_assets/furniture.json",
+        "compiled_assets/grass.json",
+        "compiled_assets/hoeDirt.json"
+    ],
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

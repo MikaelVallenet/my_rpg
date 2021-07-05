@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/assets\/furniture.png",
+ "imageheight":1024,
+ "imagewidth":512,
+ "margin":0,
+ "name":"furniture",
+ "spacing":0,
+ "tilecount":2048,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

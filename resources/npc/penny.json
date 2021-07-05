@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/girl/Penny.png",
+    "name":"Penny",
+    "top_rect":52,
+    "left_rect":22,
+    "pos_x":200,
+    "pos_y":900
+}

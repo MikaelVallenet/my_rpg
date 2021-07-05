@@ -1,0 +1,40 @@
+{
+    "image":"./assets/npc/girl/Jas.png",
+    "name":"Jas",
+    "top_rect":245,
+    "left_rect":22,
+    "pos_x":1810,
+    "pos_y":3280,
+    "event_type":"conversation",
+    "event_zone":{
+        "height":300,
+        "width":200
+    },
+    "file_conversation":"resources/conversation/jas_conversation.json",
+    "state":"move",
+    "orientation":"down",
+    "speed":2,
+    "nb_point":5,
+    "point": [
+        {
+            "x":1830,
+            "y":3280
+        },
+        {
+            "x":1830,
+            "y":3660
+        },
+        {
+            "x":2330,
+            "y":3660
+        },
+        {
+            "x":2330,
+            "y":3660
+        }
+        {
+            "x":2330,
+            "y":3240
+        }
+    ]
+}

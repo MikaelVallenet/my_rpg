@@ -1,0 +1,9 @@
+{
+    "name":"mimic",
+    "sprite":"./assets/mimic.png",
+    "health":600,
+    "damage":100,
+    "armor":250,
+    "level":2,
+    "xp":2400
+}

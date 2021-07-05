@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/assets\/farmhouse_tiles.png",
+ "imageheight":320,
+ "imagewidth":192,
+ "margin":0,
+ "name":"farmhouse_tiles",
+ "spacing":0,
+ "tilecount":240,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

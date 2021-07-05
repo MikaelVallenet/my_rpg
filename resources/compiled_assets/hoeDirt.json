@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/assets\/hoeDirt.png",
+ "imageheight":64,
+ "imagewidth":128,
+ "margin":0,
+ "name":"hoeDirt",
+ "spacing":0,
+ "tilecount":32,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

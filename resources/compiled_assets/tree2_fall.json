@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"..\/assets\/tree2_fall.png",
+ "imageheight":160,
+ "imagewidth":48,
+ "margin":0,
+ "name":"tree2_fall",
+ "spacing":0,
+ "tilecount":30,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

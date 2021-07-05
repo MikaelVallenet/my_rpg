@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"..\/assets\/Well.png",
+ "imageheight":80,
+ "imagewidth":48,
+ "margin":0,
+ "name":"Well",
+ "spacing":0,
+ "tilecount":15,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

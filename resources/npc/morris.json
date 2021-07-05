@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/man/Morris.png",
+    "name":"Morris",
+    "top_rect":240,
+    "left_rect":20,
+    "pos_x":200,
+    "pos_y":700
+}

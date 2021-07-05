@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"..\/assets\/Big Coop.png",
+ "imageheight":128,
+ "imagewidth":96,
+ "margin":0,
+ "name":"Big Coop",
+ "spacing":0,
+ "tilecount":48,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

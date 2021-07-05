@@ -1,0 +1,9 @@
+{
+    "function":0,
+    "speaker":"npc",
+    "face": {
+        "top_rect":1,
+        "left_rect":107
+    },
+    "string":"Bonjour, bienvenue a la mairie."
+}

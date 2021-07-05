@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/assets\/Festivals.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"Festivals",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

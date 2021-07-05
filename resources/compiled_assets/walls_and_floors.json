@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/assets\/walls_and_floors.png",
+ "imageheight":512,
+ "imagewidth":256,
+ "margin":0,
+ "name":"walls_and_floors",
+ "spacing":0,
+ "tilecount":512,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

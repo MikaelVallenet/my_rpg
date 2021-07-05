@@ -1,0 +1,9 @@
+{
+    "name":"spirit",
+    "sprite":"./assets/spirit_attack.png",
+    "health":45,
+    "damage":20,
+    "armor":3,
+    "level":3,
+    "xp":110
+}

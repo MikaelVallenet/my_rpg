@@ -1,0 +1,37 @@
+{
+    "function":0,
+    "speaker":"npc",
+    "face": {
+        "top_rect":1,
+        "left_rect":106
+    },
+    "string":"Bien le bonjour citoyen.\nVous faut-il quelque chose ?\n"
+}
+{
+    "function":0,
+    "speaker":"player",
+    "face": {
+        "top_rect":77,
+        "left_rect":182
+    },
+    "string":"Non, je viens juste dire bonjour.\n Bonne journee !"
+}
+{
+    "function":0,
+    "speaker":"npc",
+    "face": {
+        "top_rect":1,
+        "left_rect":106
+    },
+    "string":"Bonne journee a vous aussi !"
+}
+{
+    "function":0,
+    "speaker":"npc",
+    "face": {
+        "top_rect":1,
+        "left_rect":106
+    },
+    "string":"(t'es vrm craquant)"
+}
+

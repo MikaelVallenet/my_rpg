@@ -1,0 +1,18 @@
+{
+    "function":0,
+    "speaker":"npc",
+    "face": {
+        "top_rect":1,
+        "left_rect":107
+    },
+    "string":"Hey salut, moi c'est Jas"
+}
+{
+    "function":0,
+    "speaker":"player",
+    "face": {
+        "top_rect":77,
+        "left_rect":182
+    },
+    "string":"Bonjour petite fille !"
+}

@@ -1,0 +1,8 @@
+{
+    "image":"./assets/npc/man/Pierre.png",
+    "name":"Pierre",
+    "top_rect":240,
+    "left_rect":21,
+    "pos_x":200,
+    "pos_y":900
+}

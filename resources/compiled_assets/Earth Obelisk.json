@@ -1,0 +1,14 @@
+{ "columns":3,
+ "image":"..\/assets\/Earth Obelisk.png",
+ "imageheight":128,
+ "imagewidth":48,
+ "margin":0,
+ "name":"Earth Obelisk",
+ "spacing":0,
+ "tilecount":24,
+ "tiledversion":"1.6.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

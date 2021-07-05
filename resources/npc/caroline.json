@@ -1,0 +1,17 @@
+{
+    "image":"./assets/npc/girl/Caroline.png",
+    "name":"Caroline",
+    "top_rect":276,
+    "left_rect":24,
+    "pos_x":580,
+    "pos_y":440,
+    "event_type":"conversation",
+    "event_zone":{
+        "height":300,
+        "width":200
+    },
+    "file_conversation":"resources/conversation/first_conversation.json",
+    "state":"static",
+    "orientation":"down",
+    "speed":2
+}

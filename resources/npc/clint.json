@@ -1,0 +1,17 @@
+{
+    "image":"./assets/npc/man/Clint.png",
+    "name":"Clint",
+    "top_rect":96,
+    "left_rect":22,
+    "pos_x":400,
+    "pos_y":210,
+    "event_type":"conversation",
+    "event_zone":{
+        "height":300,
+        "width":200
+    },
+    "file_conversation":"resources/conversation/father_conversation.json",
+    "state":"static",
+    "orientation":"down",
+    "speed":2
+}
