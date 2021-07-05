@@ -15,7 +15,7 @@ Your game must follow the following rules:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• You need to implement at least one quest.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The player must have an inventory which can contain a limited set of items.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The player can earn experience by winning fights and accomplishing specific actions.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• With enough experience, the player can level up, upgrading its statistics.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• With enough experience, the player can level up, upgrading its statistics.
 
 To realize our project, we were only allowed to use some functions,\
 most of them being forbidden such as: printf
