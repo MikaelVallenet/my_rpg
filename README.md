@@ -173,7 +173,7 @@ Each upgrade unlocks another one, several paths are possible, will you choose at
 
 <p align="center">
     <br/>
-  <img src="./img/skill_tree.png" />
+  <img src="./img/skilltree.png" />
   <br/>
   <br/>
 </p>
