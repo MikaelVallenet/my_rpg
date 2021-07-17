@@ -196,7 +196,7 @@ Now that you know everything, it's time to explain how to play the game.
 :warning: This project requires CSFML 2.5.0 to run.
 
 ```
- git clone git clone https://github.com/Mikatech/my_rpg.git
+ git clone https://github.com/Mikatech/my_rpg.git
  cd my_rpg
  make
 ```
